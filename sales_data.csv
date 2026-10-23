@@ -1,0 +1,253 @@
+date,region,product,units_sold,unit_price,revenue
+2026-06-09,Cairo,Olive Oil,11,12.61,138.71
+2026-06-09,Riyadh,Olive Oil,8,12.83,102.64
+2026-06-14,Amman,Olive Oil,18,12.38,222.84
+2026-06-11,Amman,Oud Perfume,11,47.52,522.72
+2026-06-28,Cairo,Olive Oil,16,12.04,192.64
+2026-06-12,Morocco,Olive Oil,23,11.05,254.15
+2026-06-05,Cairo,Arabic Coffee,25,14.82,370.5
+2026-06-07,Cairo,Basmati Rice,3,6.48,19.44
+2026-06-04,Amman,Basmati Rice,16,5.82,93.12
+2026-06-02,Riyadh,Basmati Rice,11,6.14,67.54
+2026-06-07,Morocco,Dates,9,8.45,76.05
+2026-06-26,Amman,Dates,19,7.44,141.36
+2026-06-10,Riyadh,Oud Perfume,24,41.41,993.84
+2026-06-20,Amman,Arabic Coffee,7,15.38,107.66
+2026-06-04,Cairo,Dates,18,8.57,154.26
+2026-06-26,Cairo,Oud Perfume,13,47.99,623.87
+2026-06-01,Amman,Arabic Coffee,19,15.12,287.28
+2026-06-28,Riyadh,Arabic Coffee,23,13.86,318.78
+2026-06-20,Morocco,Olive Oil,48,11.94,573.12
+2026-06-15,Amman,Olive Oil,19,12.63,239.97
+2026-06-01,Riyadh,Olive Oil,4,11.05,44.2
+2026-06-15,Riyadh,Oud Perfume,23,46.96,1080.08
+2026-06-18,Cairo,Olive Oil,10,12.46,124.6
+2026-06-02,Riyadh,Arabic Coffee,16,14.69,235.04
+2026-06-05,Cairo,Basmati Rice,31,6.22,192.82
+2026-06-13,Cairo,Olive Oil,21,11.05,232.05
+2026-06-11,Morocco,Dates,12,7.9,94.8
+2026-06-01,Riyadh,Arabic Coffee,19,15.36,291.84
+2026-06-06,Amman,Dates,14,7.74,108.36
+2026-06-13,Amman,Olive Oil,19,12.2,231.8
+2026-06-08,Riyadh,Dates,17,8.28,140.76
+2026-06-17,Cairo,Oud Perfume,8,45.25,362.0
+2026-06-13,Riyadh,Basmati Rice,12,6.04,72.48
+2026-06-12,Cairo,Basmati Rice,40,6.43,257.2
+2026-06-15,Morocco,Dates,9,7.51,67.59
+2026-06-14,Amman,Basmati Rice,18,6.06,109.08
+2026-06-06,Riyadh,Olive Oil,11,11.77,129.47
+2026-06-21,Morocco,Olive Oil,12,11.88,142.56
+2026-06-22,Cairo,Arabic Coffee,19,15.59,296.21
+2026-06-13,Riyadh,Oud Perfume,18,45.61,820.98
+2026-06-14,Morocco,Basmati Rice,19,5.97,113.43
+2026-06-06,Morocco,Basmati Rice,19,6.48,123.12
+2026-06-09,Amman,Dates,15,7.39,110.85
+2026-06-14,Riyadh,Oud Perfume,25,43.22,1080.5
+2026-06-07,Cairo,Olive Oil,14,11.45,160.3
+2026-06-12,Morocco,Basmati Rice,17,5.75,97.75
+2026-06-16,Cairo,Dates,15,8.45,126.75
+2026-06-25,Morocco,Arabic Coffee,12,15.26,183.12
+2026-06-08,Amman,Basmati Rice,11,6.28,69.08
+2026-06-18,Riyadh,Oud Perfume,28,45.16,1264.48
+2026-06-14,Riyadh,Arabic Coffee,16,14.71,235.36
+2026-06-14,Amman,Arabic Coffee,18,13.85,249.3
+2026-06-20,Riyadh,Arabic Coffee,27,15.2,410.4
+2026-06-07,Cairo,Arabic Coffee,19,15.6,296.4
+2026-06-10,Amman,Olive Oil,11,11.63,127.93
+2026-06-03,Morocco,Basmati Rice,12,5.77,69.24
+2026-06-17,Riyadh,Oud Perfume,28,44.89,1256.92
+2026-06-24,Riyadh,Oud Perfume,32,43.89,1404.48
+2026-06-08,Cairo,Basmati Rice,23,6.37,146.51
+2026-06-27,Riyadh,Oud Perfume,57,42.12,2400.84
+2026-06-12,Morocco,Dates,21,7.89,165.69
+2026-06-15,Amman,Arabic Coffee,18,15.84,285.12
+2026-06-12,Riyadh,Olive Oil,12,11.52,138.24
+2026-06-15,Cairo,Basmati Rice,33,5.85,193.05
+2026-06-28,Amman,Arabic Coffee,11,14.95,164.45
+2026-06-26,Morocco,Dates,24,8.42,202.08
+2026-06-01,Riyadh,Dates,18,7.39,133.02
+2026-06-19,Amman,Dates,14,7.46,104.44
+2026-06-22,Cairo,Basmati Rice,23,6.3,144.9
+2026-06-11,Riyadh,Dates,21,8.06,169.26
+2026-06-02,Morocco,Basmati Rice,12,5.74,68.88
+2026-06-05,Amman,Arabic Coffee,25,14.26,356.5
+2026-06-18,Amman,Dates,12,7.63,91.56
+2026-06-08,Morocco,Olive Oil,15,11.3,169.5
+2026-06-28,Cairo,Basmati Rice,18,6.43,115.74
+2026-06-27,Cairo,Oud Perfume,15,44.67,670.05
+2026-06-06,Riyadh,Basmati Rice,14,5.9,82.6
+2026-06-28,Amman,Olive Oil,12,11.2,134.4
+2026-06-03,Riyadh,Oud Perfume,27,48.57,1311.39
+2026-06-21,Riyadh,Olive Oil,11,12.95,142.45
+2026-06-08,Morocco,Basmati Rice,18,6.3,113.4
+2026-06-27,Riyadh,Olive Oil,13,11.75,152.75
+2026-06-22,Amman,Dates,10,8.0,80.0
+2026-06-05,Riyadh,Oud Perfume,44,47.05,2070.2
+2026-06-05,Morocco,Olive Oil,35,11.46,401.1
+2026-06-28,Amman,Basmati Rice,14,6.39,89.46
+2026-06-18,Riyadh,Arabic Coffee,21,14.53,305.13
+2026-06-23,Riyadh,Dates,19,8.25,156.75
+2026-06-05,Morocco,Oud Perfume,7,47.92,335.44
+2026-06-20,Riyadh,Oud Perfume,32,46.22,1479.04
+2026-06-01,Morocco,Arabic Coffee,9,15.57,140.13
+2026-06-28,Riyadh,Oud Perfume,33,45.19,1491.27
+2026-06-09,Morocco,Arabic Coffee,12,14.78,177.36
+2026-06-06,Cairo,Dates,18,7.9,142.2
+2026-06-04,Riyadh,Dates,18,7.36,132.48
+2026-06-01,Riyadh,Oud Perfume,16,46.43,742.88
+2026-06-21,Riyadh,Dates,17,8.61,146.37
+2026-06-10,Morocco,Basmati Rice,11,6.45,70.95
+2026-06-08,Riyadh,Arabic Coffee,21,15.32,321.72
+2026-06-26,Morocco,Olive Oil,34,12.89,438.26
+2026-06-28,Morocco,Arabic Coffee,16,14.32,229.12
+2026-06-18,Riyadh,Olive Oil,11,12.51,137.61
+2026-06-24,Morocco,Dates,15,7.84,117.6
+2026-06-26,Cairo,Olive Oil,15,11.49,172.35
+2026-06-16,Riyadh,Oud Perfume,17,44.13,750.21
+2026-06-16,Riyadh,Olive Oil,10,12.73,127.3
+2026-06-05,Amman,Dates,15,8.46,126.9
+2026-06-02,Cairo,Dates,5,8.18,40.9
+2026-06-24,Riyadh,Arabic Coffee,15,14.41,216.15
+2026-06-14,Cairo,Arabic Coffee,21,15.36,322.56
+2026-06-26,Amman,Olive Oil,19,12.86,244.34
+2026-06-14,Riyadh,Dates,19,8.18,155.42
+2026-06-07,Morocco,Arabic Coffee,9,16.11,144.99
+2026-06-14,Morocco,Olive Oil,23,11.8,271.4
+2026-06-09,Morocco,Olive Oil,11,12.83,141.13
+2026-06-07,Amman,Olive Oil,16,12.39,198.24
+2026-06-21,Cairo,Basmati Rice,18,5.78,104.04
+2026-06-24,Amman,Basmati Rice,21,5.78,121.38
+2026-06-07,Riyadh,Dates,13,7.9,102.7
+2026-06-04,Amman,Arabic Coffee,17,15.55,264.35
+2026-06-02,Morocco,Olive Oil,24,11.23,269.52
+2026-06-28,Cairo,Arabic Coffee,20,14.06,281.2
+2026-06-18,Riyadh,Dates,24,8.17,196.08
+2026-06-15,Riyadh,Basmati Rice,14,6.18,86.52
+2026-06-16,Riyadh,Dates,13,7.7,100.1
+2026-06-03,Riyadh,Dates,22,7.48,164.56
+2026-06-03,Morocco,Olive Oil,28,12.76,357.28
+2026-06-27,Riyadh,Basmati Rice,16,6.43,102.88
+2026-06-23,Cairo,Basmati Rice,34,5.59,190.06
+2026-06-28,Riyadh,Basmati Rice,21,6.28,131.88
+2026-06-22,Cairo,Olive Oil,10,12.92,129.2
+2026-06-19,Morocco,Dates,20,7.66,153.2
+2026-06-05,Riyadh,Olive Oil,14,12.14,169.96
+2026-06-10,Riyadh,Arabic Coffee,15,15.25,228.75
+2026-06-25,Riyadh,Oud Perfume,21,47.44,996.24
+2026-06-13,Morocco,Olive Oil,43,11.57,497.51
+2026-06-11,Cairo,Olive Oil,15,12.26,183.9
+2026-06-26,Riyadh,Oud Perfume,27,41.5,1120.5
+2026-06-28,Morocco,Olive Oil,36,11.05,397.8
+2026-06-23,Cairo,Dates,13,8.33,108.29
+2026-06-20,Amman,Dates,19,8.6,163.4
+2026-06-17,Riyadh,Arabic Coffee,15,15.49,232.35
+2026-06-23,Amman,Olive Oil,19,12.37,235.03
+2026-06-25,Riyadh,Basmati Rice,12,6.17,74.04
+2026-06-17,Morocco,Olive Oil,19,12.06,229.14
+2026-06-05,Morocco,Basmati Rice,18,6.08,109.44
+2026-06-28,Riyadh,Dates,32,7.53,240.96
+2026-06-01,Morocco,Oud Perfume,7,44.44,311.08
+2026-06-19,Riyadh,Basmati Rice,10,6.04,60.4
+2026-06-25,Cairo,Oud Perfume,10,43.52,435.2
+2026-06-20,Cairo,Basmati Rice,46,6.05,278.3
+2026-06-08,Riyadh,Olive Oil,8,11.85,94.8
+2026-06-05,Amman,Basmati Rice,14,5.76,80.64
+2026-06-01,Cairo,Arabic Coffee,22,14.03,308.66
+2026-06-08,Riyadh,Basmati Rice,6,6.33,37.98
+2026-06-01,Cairo,Dates,16,7.79,124.64
+2026-06-19,Morocco,Olive Oil,27,12.55,338.85
+2026-06-21,Amman,Arabic Coffee,18,15.91,286.38
+2026-06-24,Cairo,Basmati Rice,31,5.76,178.56
+2026-06-26,Amman,Oud Perfume,18,44.95,809.1
+2026-06-17,Riyadh,Basmati Rice,14,5.7,79.8
+2026-06-08,Cairo,Dates,13,8.31,108.03
+2026-06-27,Riyadh,Arabic Coffee,24,14.8,355.2
+2026-06-11,Riyadh,Arabic Coffee,15,15.19,227.85
+2026-06-22,Riyadh,Oud Perfume,26,46.42,1206.92
+2026-06-10,Cairo,Arabic Coffee,22,15.53,341.66
+2026-06-04,Morocco,Olive Oil,16,11.33,181.28
+2026-06-07,Riyadh,Oud Perfume,19,46.56,884.64
+2026-06-14,Cairo,Dates,7,7.38,51.66
+2026-06-19,Cairo,Olive Oil,15,12.85,192.75
+2026-06-24,Morocco,Oud Perfume,11,45.86,504.46
+2026-06-07,Morocco,Basmati Rice,15,6.17,92.55
+2026-06-27,Amman,Olive Oil,29,12.55,363.95
+2026-06-17,Riyadh,Olive Oil,10,12.07,120.7
+2026-06-04,Morocco,Arabic Coffee,14,14.52,203.28
+2026-06-28,Riyadh,Olive Oil,9,11.14,100.26
+2026-06-09,Riyadh,Oud Perfume,19,47.62,904.78
+2026-06-17,Amman,Arabic Coffee,18,15.88,285.84
+2026-06-08,Amman,Arabic Coffee,17,14.16,240.72
+2026-06-02,Riyadh,Oud Perfume,35,46.65,1632.75
+2026-06-13,Morocco,Oud Perfume,9,43.7,393.3
+2026-06-24,Riyadh,Basmati Rice,16,6.29,100.64
+2026-06-10,Amman,Dates,13,7.76,100.88
+2026-06-27,Morocco,Dates,21,7.94,166.74
+2026-06-04,Cairo,Arabic Coffee,18,14.97,269.46
+2026-06-19,Amman,Basmati Rice,22,6.44,141.68
+2026-06-09,Amman,Oud Perfume,9,48.46,436.14
+2026-06-21,Amman,Olive Oil,16,12.83,205.28
+2026-06-17,Morocco,Arabic Coffee,8,14.33,114.64
+2026-06-17,Cairo,Olive Oil,14,11.38,159.32
+2026-06-02,Cairo,Basmati Rice,30,6.33,189.9
+2026-06-16,Amman,Arabic Coffee,18,15.62,281.16
+2026-06-04,Amman,Dates,8,8.48,67.84
+2026-06-24,Riyadh,Dates,27,8.53,230.31
+2026-06-22,Morocco,Arabic Coffee,9,14.52,130.68
+2026-06-22,Riyadh,Dates,17,8.07,137.19
+2026-06-25,Cairo,Basmati Rice,23,6.08,139.84
+2026-06-26,Cairo,Arabic Coffee,34,15.41,523.94
+2026-06-23,Amman,Basmati Rice,20,6.36,127.2
+2026-06-03,Riyadh,Arabic Coffee,15,14.06,210.9
+2026-06-03,Cairo,Olive Oil,12,12.42,149.04
+2026-06-02,Amman,Olive Oil,14,12.3,172.2
+2026-06-14,Riyadh,Basmati Rice,14,5.83,81.62
+2026-06-20,Cairo,Arabic Coffee,29,15.46,448.34
+2026-06-05,Riyadh,Arabic Coffee,18,14.37,258.66
+2026-06-11,Riyadh,Oud Perfume,31,42.94,1331.14
+2026-06-08,Morocco,Oud Perfume,3,42.17,126.51
+2026-06-19,Amman,Arabic Coffee,21,14.4,302.4
+2026-06-24,Cairo,Oud Perfume,6,43.11,258.66
+2026-06-13,Riyadh,Dates,31,7.54,233.74
+2026-06-09,Cairo,Arabic Coffee,16,15.89,254.24
+2026-06-03,Amman,Arabic Coffee,15,14.84,222.6
+2026-06-21,Amman,Dates,13,8.54,111.02
+2026-06-13,Morocco,Arabic Coffee,15,15.64,234.6
+2026-06-12,Riyadh,Arabic Coffee,19,16.1,305.9
+2026-06-27,Amman,Oud Perfume,21,41.89,879.69
+2026-06-24,Amman,Arabic Coffee,24,16.18,388.32
+2026-06-10,Morocco,Olive Oil,27,11.25,303.75
+2026-06-12,Amman,Arabic Coffee,23,15.79,363.17
+2026-06-07,Cairo,Dates,9,7.74,69.66
+2026-06-13,Amman,Oud Perfume,10,42.98,429.8
+2026-06-27,Cairo,Olive Oil,17,11.8,200.6
+2026-06-07,Morocco,Olive Oil,29,11.27,326.83
+2026-06-26,Morocco,Oud Perfume,12,48.36,580.32
+2026-06-21,Cairo,Arabic Coffee,21,15.52,325.92
+2026-06-16,Amman,Dates,23,8.57,197.11
+2026-06-23,Morocco,Olive Oil,24,11.94,286.56
+2026-06-26,Cairo,Basmati Rice,21,6.42,134.82
+2026-06-19,Cairo,Arabic Coffee,27,15.6,421.2
+2026-06-19,Cairo,Basmati Rice,38,5.8,220.4
+2026-06-25,Amman,Arabic Coffee,25,16.13,403.25
+2026-06-04,Riyadh,Arabic Coffee,10,13.85,138.5
+2026-06-20,Amman,Olive Oil,19,11.4,216.6
+2026-06-24,Morocco,Arabic Coffee,10,15.07,150.7
+2026-06-04,Morocco,Dates,10,8.0,80.0
+2026-06-13,Riyadh,Arabic Coffee,19,13.95,265.05
+2026-06-18,Morocco,Basmati Rice,23,5.98,137.54
+2026-06-15,Morocco,Olive Oil,18,11.09,199.62
+2026-06-14,Morocco,Arabic Coffee,9,14.77,132.93
+2026-06-09,Morocco,Dates,18,7.68,138.24
+2026-06-16,Morocco,Olive Oil,22,12.59,276.98
+2026-06-17,Amman,Dates,21,8.25,173.25
+2026-06-11,Amman,Olive Oil,16,11.42,182.72
+2026-06-09,Amman,Arabic Coffee,14,14.59,204.26
+2026-06-21,Riyadh,Basmati Rice,18,6.05,108.9
+2026-06-16,Cairo,Arabic Coffee,19,14.62,277.78
+2026-06-17,Cairo,Basmati Rice,27,5.79,156.33
+2026-06-18,Amman,Basmati Rice,15,5.52,82.8
+2026-06-18,Cairo,Arabic Coffee,15,15.86,237.9
+2026-06-08,Riyadh,Oud Perfume,34,45.99,1563.66
+2026-06-04,Cairo,Basmati Rice,21,5.64,118.44
+2026-06-02,Amman,Dates,12,7.63,91.56

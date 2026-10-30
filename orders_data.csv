@@ -1,0 +1,1301 @@
+order_id,city,category,payment,basket_value
+O0001,Riyadh,Stationery,Cash,25.0
+O0002,Riyadh,Snacks,Cash,37.5
+O0003,Riyadh,Groceries,Card,51.48
+O0004,Casablanca,Groceries,Cash,21.22
+O0005,Cairo,Snacks,Cash,21.76
+O0006,Riyadh,Personal care,Card,45.29
+O0007,Casablanca,Personal care,Card,25.17
+O0008,Riyadh,Electronics,Card,62.23
+O0009,Cairo,Groceries,Cash,30.66
+O0010,Casablanca,Groceries,Card,34.43
+O0011,Riyadh,Toys,Card,37.38
+O0012,Casablanca,Groceries,Cash,25.43
+O0013,Casablanca,Groceries,Cash,19.1
+O0014,Riyadh,Groceries,Card,50.72
+O0015,Cairo,Snacks,Wallet,8.0
+O0016,Cairo,Personal care,Cash,49.65
+O0017,Cairo,Beverages,Card,5.6
+O0018,Riyadh,Groceries,Wallet,23.98
+O0019,Cairo,Home,Wallet,10.47
+O0020,Amman,Snacks,Card,28.15
+O0021,Casablanca,Groceries,Cash,32.4
+O0022,Riyadh,Groceries,Card,21.97
+O0023,Amman,Personal care,Wallet,43.08
+O0024,Riyadh,Electronics,Cash,102.43
+O0025,Cairo,Beverages,Card,12.57
+O0026,Cairo,Groceries,Card,26.11
+O0027,Amman,Beverages,Wallet,16.18
+O0028,Casablanca,Personal care,Cash,13.73
+O0029,Casablanca,Groceries,Cash,19.41
+O0030,Riyadh,Personal care,Card,22.38
+O0031,Amman,Toys,Cash,76.85
+O0032,Riyadh,Groceries,Card,19.81
+O0033,Casablanca,Beverages,Card,8.9
+O0034,Riyadh,Electronics,Card,117.78
+O0035,Riyadh,Groceries,Cash,9.56
+O0036,Cairo,Groceries,Card,25.21
+O0037,Cairo,Snacks,Card,17.91
+O0038,Casablanca,Electronics,Cash,80.48
+O0039,Cairo,Groceries,Cash,31.24
+O0040,Amman,Groceries,Cash,11.1
+O0041,Amman,Beverages,Wallet,9.49
+O0042,Cairo,Stationery,Cash,17.59
+O0043,Casablanca,Beverages,Card,10.81
+O0044,Cairo,Groceries,Cash,18.65
+O0045,Riyadh,Groceries,Card,37.43
+O0046,Cairo,Snacks,Card,14.04
+O0047,Riyadh,Groceries,Card,47.15
+O0048,Amman,Home,Wallet,20.23
+O0049,Cairo,Personal care,Wallet,33.16
+O0050,Riyadh,Electronics,Card,191.53
+O0051,Riyadh,Stationery,Card,34.48
+O0052,Riyadh,Beverages,Card,8.69
+O0053,Amman,Groceries,Card,17.4
+O0054,Riyadh,Groceries,Cash,36.51
+O0055,Casablanca,Beverages,Card,14.78
+O0056,Amman,Groceries,Cash,35.26
+O0057,Casablanca,Electronics,Wallet,59.28
+O0058,Casablanca,Beverages,Cash,14.84
+O0059,Amman,Electronics,Cash,81.18
+O0060,Amman,Snacks,Wallet,13.43
+O0061,Casablanca,Toys,Card,24.92
+O0062,Riyadh,Groceries,Wallet,40.85
+O0063,Amman,Groceries,Card,42.2
+O0064,Cairo,Personal care,Cash,22.98
+O0065,Casablanca,Groceries,Cash,115.81
+O0066,Riyadh,Home,Wallet,71.76
+O0067,Riyadh,Beverages,Cash,16.45
+O0068,Cairo,Electronics,Wallet,68.62
+O0069,Riyadh,Groceries,Cash,38.12
+O0070,Amman,Groceries,Card,25.85
+O0071,Casablanca,Snacks,Cash,15.18
+O0072,Amman,Groceries,Cash,45.67
+O0073,Cairo,Groceries,Wallet,22.65
+O0074,Riyadh,Groceries,Cash,26.04
+O0075,Cairo,Beverages,Cash,13.1
+O0076,Cairo,Beverages,Card,26.07
+O0077,Cairo,Groceries,Card,12.47
+O0078,Riyadh,Snacks,Card,9.66
+O0079,Riyadh,Personal care,Card,21.14
+O0080,Cairo,Groceries,Cash,18.56
+O0081,Cairo,Home,Card,27.54
+O0082,Riyadh,Home,Card,37.66
+O0083,Cairo,Groceries,Wallet,40.95
+O0084,Riyadh,Personal care,Card,25.57
+O0085,Riyadh,Snacks,Card,12.99
+O0086,Riyadh,Snacks,Cash,20.99
+O0087,Cairo,Groceries,Card,48.37
+O0088,Amman,Beverages,Card,8.17
+O0089,Casablanca,Groceries,Card,18.64
+O0090,Casablanca,Groceries,Card,16.33
+O0091,Casablanca,Groceries,Card,15.25
+O0092,Cairo,Home,Cash,17.16
+O0093,Amman,Groceries,Cash,67.29
+O0094,Cairo,Groceries,Cash,27.5
+O0095,Riyadh,Groceries,Cash,85.35
+O0096,Casablanca,Home,Wallet,90.37
+O0097,Riyadh,Snacks,Card,13.79
+O0098,Riyadh,Groceries,Card,39.11
+O0099,Casablanca,Beverages,Cash,21.07
+O0100,Cairo,Beverages,Cash,15.3
+O0101,Amman,Groceries,Card,42.81
+O0102,Riyadh,Personal care,Card,107.06
+O0103,Riyadh,Personal care,Wallet,61.17
+O0104,Casablanca,Home,Card,28.24
+O0105,Cairo,Beverages,Card,15.12
+O0106,Riyadh,Snacks,Card,26.63
+O0107,Casablanca,Beverages,Cash,15.95
+O0108,Casablanca,Groceries,Wallet,12.78
+O0109,Amman,Groceries,Card,29.47
+O0110,Casablanca,Beverages,Cash,16.54
+O0111,Cairo,Groceries,Wallet,24.77
+O0112,Riyadh,Personal care,Card,54.12
+O0113,Casablanca,Groceries,Card,91.38
+O0114,Riyadh,Groceries,Cash,54.47
+O0115,Cairo,Stationery,Wallet,8.69
+O0116,Riyadh,Groceries,Card,58.24
+O0117,Amman,Electronics,Card,95.5
+O0118,Cairo,Stationery,Cash,13.69
+O0119,Cairo,Groceries,Card,69.5
+O0120,Casablanca,Toys,Cash,9.48
+O0121,Amman,Groceries,Cash,12.44
+O0122,Cairo,Groceries,Cash,42.24
+O0123,Riyadh,Groceries,Card,17.15
+O0124,Amman,Personal care,Cash,31.01
+O0125,Amman,Personal care,Cash,16.52
+O0126,Casablanca,Personal care,Card,15.89
+O0127,Cairo,Beverages,Wallet,6.67
+O0128,Cairo,Personal care,Wallet,19.46
+O0129,Riyadh,Groceries,Card,55.55
+O0130,Casablanca,Groceries,Card,35.87
+O0131,Riyadh,Snacks,Card,14.53
+O0132,Casablanca,Groceries,Cash,33.26
+O0133,Amman,Groceries,Card,18.87
+O0134,Casablanca,Personal care,Card,28.02
+O0135,Amman,Personal care,Card,9.12
+O0136,Cairo,Groceries,Cash,8.7
+O0137,Casablanca,Groceries,Card,35.55
+O0138,Cairo,Groceries,Cash,11.99
+O0139,Amman,Beverages,Card,6.68
+O0140,Riyadh,Groceries,Wallet,34.19
+O0141,Cairo,Groceries,Cash,17.44
+O0142,Cairo,Beverages,Card,16.9
+O0143,Cairo,Beverages,Card,10.45
+O0144,Casablanca,Groceries,Wallet,51.26
+O0145,Amman,Stationery,Cash,35.33
+O0146,Casablanca,Beverages,Cash,13.55
+O0147,Cairo,Groceries,Card,34.16
+O0148,Riyadh,Groceries,Card,51.75
+O0149,Casablanca,Groceries,Card,54.47
+O0150,Amman,Groceries,Cash,47.41
+O0151,Cairo,Groceries,Wallet,59.92
+O0152,Riyadh,Home,Card,73.84
+O0153,Riyadh,Beverages,Card,4.57
+O0154,Riyadh,Home,Card,25.75
+O0155,Riyadh,Electronics,Wallet,208.5
+O0156,Amman,Groceries,Cash,62.05
+O0157,Riyadh,Home,Cash,47.86
+O0158,Amman,Home,Cash,51.73
+O0159,Cairo,Groceries,Card,8.36
+O0160,Riyadh,Snacks,Card,16.58
+O0161,Riyadh,Groceries,Wallet,13.9
+O0162,Casablanca,Groceries,Card,43.6
+O0163,Amman,Groceries,Card,28.91
+O0164,Cairo,Personal care,Cash,64.41
+O0165,Cairo,Groceries,Card,12.64
+O0166,Cairo,Stationery,Card,10.02
+O0167,Riyadh,Groceries,Card,34.39
+O0168,Cairo,Electronics,Card,96.99
+O0169,Amman,Groceries,Cash,37.01
+O0170,Riyadh,Personal care,Card,16.43
+O0171,Casablanca,Personal care,Cash,22.82
+O0172,Casablanca,Personal care,Card,26.38
+O0173,Amman,Personal care,Cash,42.6
+O0174,Amman,Groceries,Card,60.1
+O0175,Casablanca,Groceries,Card,25.54
+O0176,Amman,Beverages,Card,29.44
+O0177,Riyadh,Groceries,Cash,45.72
+O0178,Cairo,Groceries,Wallet,26.55
+O0179,Cairo,Beverages,Card,8.42
+O0180,Casablanca,Snacks,Card,20.44
+O0181,Amman,Snacks,Card,9.64
+O0182,Amman,Groceries,Cash,56.31
+O0183,Cairo,Home,Card,17.68
+O0184,Casablanca,Groceries,Cash,13.4
+O0185,Amman,Toys,Card,10.37
+O0186,Casablanca,Toys,Card,26.5
+O0187,Amman,Groceries,Cash,21.66
+O0188,Amman,Beverages,Cash,6.34
+O0189,Riyadh,Groceries,Wallet,42.83
+O0190,Amman,Groceries,Cash,34.57
+O0191,Cairo,Beverages,Card,17.23
+O0192,Cairo,Groceries,Cash,6.78
+O0193,Amman,Groceries,Card,21.05
+O0194,Cairo,Groceries,Card,26.12
+O0195,Amman,Electronics,Cash,76.58
+O0196,Riyadh,Beverages,Wallet,66.05
+O0197,Casablanca,Groceries,Card,21.6
+O0198,Cairo,Toys,Wallet,28.69
+O0199,Riyadh,Beverages,Card,14.7
+O0200,Riyadh,Groceries,Card,63.08
+O0201,Riyadh,Groceries,Card,28.75
+O0202,Casablanca,Personal care,Cash,42.7
+O0203,Amman,Beverages,Card,22.66
+O0204,Cairo,Home,Card,43.56
+O0205,Riyadh,Personal care,Wallet,8.77
+O0206,Amman,Personal care,Card,18.23
+O0207,Amman,Groceries,Card,51.16
+O0208,Cairo,Groceries,Wallet,43.61
+O0209,Cairo,Groceries,Wallet,43.76
+O0210,Riyadh,Personal care,Cash,25.19
+O0211,Amman,Beverages,Cash,11.03
+O0212,Riyadh,Groceries,Card,26.13
+O0213,Cairo,Groceries,Cash,29.24
+O0214,Riyadh,Groceries,Wallet,59.22
+O0215,Amman,Groceries,Cash,68.52
+O0216,Casablanca,Toys,Cash,24.71
+O0217,Cairo,Personal care,Cash,19.32
+O0218,Cairo,Electronics,Card,47.3
+O0219,Riyadh,Personal care,Cash,13.14
+O0220,Riyadh,Toys,Card,25.23
+O0221,Riyadh,Home,Card,36.38
+O0222,Cairo,Electronics,Card,81.89
+O0223,Casablanca,Snacks,Card,37.41
+O0224,Riyadh,Groceries,Wallet,74.56
+O0225,Casablanca,Groceries,Cash,29.43
+O0226,Riyadh,Personal care,Card,51.82
+O0227,Casablanca,Personal care,Card,13.26
+O0228,Amman,Groceries,Cash,47.63
+O0229,Riyadh,Groceries,Card,56.73
+O0230,Amman,Groceries,Cash,24.23
+O0231,Casablanca,Snacks,Card,30.44
+O0232,Cairo,Groceries,Cash,30.87
+O0233,Cairo,Toys,Wallet,9.51
+O0234,Amman,Groceries,Cash,24.58
+O0235,Cairo,Groceries,Cash,48.06
+O0236,Riyadh,Stationery,Card,41.86
+O0237,Casablanca,Beverages,Wallet,15.64
+O0238,Amman,Groceries,Cash,23.39
+O0239,Cairo,Groceries,Card,24.13
+O0240,Amman,Beverages,Card,5.89
+O0241,Casablanca,Groceries,Card,19.76
+O0242,Cairo,Home,Cash,59.84
+O0243,Riyadh,Groceries,Cash,59.88
+O0244,Casablanca,Toys,Card,27.3
+O0245,Riyadh,Personal care,Card,76.92
+O0246,Riyadh,Groceries,Cash,26.67
+O0247,Riyadh,Beverages,Card,27.58
+O0248,Casablanca,Personal care,Cash,32.6
+O0249,Casablanca,Beverages,Wallet,13.28
+O0250,Cairo,Home,Card,36.87
+O0251,Cairo,Groceries,Card,33.55
+O0252,Riyadh,Groceries,Card,46.45
+O0253,Amman,Stationery,Card,32.82
+O0254,Riyadh,Beverages,Card,27.25
+O0255,Riyadh,Groceries,Wallet,46.91
+O0256,Cairo,Snacks,Card,5.07
+O0257,Cairo,Beverages,Card,14.03
+O0258,Casablanca,Beverages,Card,7.02
+O0259,Amman,Home,Card,27.9
+O0260,Casablanca,Personal care,Card,46.63
+O0261,Cairo,Beverages,Card,8.84
+O0262,Casablanca,Toys,Card,61.49
+O0263,Amman,Electronics,Card,108.12
+O0264,Riyadh,Groceries,Card,63.28
+O0265,Cairo,Stationery,Card,6.21
+O0266,Amman,Groceries,Card,37.73
+O0267,Cairo,Snacks,Card,12.11
+O0268,Riyadh,Personal care,Card,29.38
+O0269,Riyadh,Personal care,Card,32.18
+O0270,Cairo,Beverages,Card,3.01
+O0271,Riyadh,Groceries,Card,33.12
+O0272,Amman,Groceries,Wallet,9.68
+O0273,Riyadh,Groceries,Cash,23.68
+O0274,Amman,Groceries,Cash,47.33
+O0275,Casablanca,Beverages,Card,14.78
+O0276,Casablanca,Groceries,Card,28.53
+O0277,Cairo,Stationery,Card,8.83
+O0278,Casablanca,Stationery,Cash,17.88
+O0279,Riyadh,Groceries,Card,89.97
+O0280,Amman,Groceries,Card,45.33
+O0281,Cairo,Electronics,Card,70.45
+O0282,Cairo,Stationery,Card,14.83
+O0283,Riyadh,Groceries,Cash,128.44
+O0284,Riyadh,Home,Wallet,81.79
+O0285,Riyadh,Personal care,Cash,45.02
+O0286,Cairo,Personal care,Card,44.45
+O0287,Casablanca,Toys,Card,13.67
+O0288,Casablanca,Snacks,Card,18.01
+O0289,Riyadh,Beverages,Cash,23.9
+O0290,Amman,Personal care,Card,18.68
+O0291,Casablanca,Electronics,Card,68.68
+O0292,Cairo,Stationery,Card,15.53
+O0293,Cairo,Snacks,Cash,21.69
+O0294,Riyadh,Electronics,Card,81.49
+O0295,Cairo,Beverages,Card,10.38
+O0296,Riyadh,Home,Card,69.94
+O0297,Amman,Personal care,Cash,23.34
+O0298,Amman,Personal care,Wallet,42.43
+O0299,Amman,Stationery,Card,25.77
+O0300,Cairo,Electronics,Card,42.27
+O0301,Amman,Groceries,Card,11.09
+O0302,Riyadh,Electronics,Cash,137.91
+O0303,Casablanca,Snacks,Cash,18.34
+O0304,Riyadh,Personal care,Card,23.99
+O0305,Riyadh,Home,Card,123.57
+O0306,Riyadh,Beverages,Cash,33.88
+O0307,Cairo,Home,Card,36.72
+O0308,Casablanca,Electronics,Cash,70.03
+O0309,Riyadh,Snacks,Cash,32.74
+O0310,Riyadh,Home,Card,59.96
+O0311,Cairo,Stationery,Card,9.23
+O0312,Riyadh,Personal care,Card,25.58
+O0313,Cairo,Groceries,Cash,25.44
+O0314,Cairo,Groceries,Cash,13.33
+O0315,Riyadh,Personal care,Card,44.26
+O0316,Amman,Beverages,Card,25.49
+O0317,Riyadh,Groceries,Wallet,28.38
+O0318,Casablanca,Groceries,Cash,26.79
+O0319,Amman,Groceries,Cash,60.6
+O0320,Riyadh,Groceries,Cash,16.46
+O0321,Amman,Groceries,Cash,17.47
+O0322,Casablanca,Electronics,Wallet,140.75
+O0323,Casablanca,Groceries,Card,20.79
+O0324,Amman,Groceries,Wallet,13.57
+O0325,Amman,Personal care,Card,28.26
+O0326,Amman,Beverages,Card,22.96
+O0327,Riyadh,Groceries,Cash,23.97
+O0328,Riyadh,Beverages,Card,14.21
+O0329,Riyadh,Home,Cash,78.68
+O0330,Cairo,Snacks,Cash,18.52
+O0331,Riyadh,Groceries,Card,27.51
+O0332,Casablanca,Groceries,Card,31.2
+O0333,Riyadh,Groceries,Card,45.23
+O0334,Riyadh,Groceries,Cash,58.91
+O0335,Riyadh,Personal care,Wallet,21.42
+O0336,Cairo,Personal care,Card,43.27
+O0337,Cairo,Groceries,Card,15.51
+O0338,Casablanca,Electronics,Card,43.77
+O0339,Cairo,Beverages,Wallet,15.69
+O0340,Amman,Groceries,Card,27.43
+O0341,Cairo,Electronics,Card,30.65
+O0342,Casablanca,Beverages,Cash,18.06
+O0343,Cairo,Stationery,Card,14.33
+O0344,Cairo,Personal care,Card,10.81
+O0345,Cairo,Electronics,Card,102.94
+O0346,Riyadh,Home,Cash,34.53
+O0347,Cairo,Groceries,Card,45.22
+O0348,Riyadh,Groceries,Card,16.47
+O0349,Casablanca,Beverages,Card,23.02
+O0350,Casablanca,Groceries,Wallet,61.11
+O0351,Cairo,Stationery,Cash,7.0
+O0352,Cairo,Groceries,Card,59.14
+O0353,Cairo,Groceries,Card,38.24
+O0354,Casablanca,Snacks,Card,10.33
+O0355,Casablanca,Groceries,Card,122.73
+O0356,Cairo,Groceries,Cash,64.85
+O0357,Riyadh,Groceries,Cash,30.06
+O0358,Riyadh,Home,Cash,83.76
+O0359,Cairo,Beverages,Cash,17.43
+O0360,Riyadh,Toys,Cash,17.64
+O0361,Riyadh,Groceries,Card,30.71
+O0362,Cairo,Groceries,Cash,24.27
+O0363,Cairo,Personal care,Card,8.82
+O0364,Casablanca,Personal care,Cash,15.4
+O0365,Cairo,Personal care,Wallet,28.14
+O0366,Amman,Electronics,Wallet,137.43
+O0367,Amman,Groceries,Card,34.28
+O0368,Casablanca,Groceries,Card,18.29
+O0369,Amman,Electronics,Card,68.69
+O0370,Amman,Groceries,Wallet,18.85
+O0371,Cairo,Groceries,Wallet,19.98
+O0372,Cairo,Groceries,Wallet,16.17
+O0373,Casablanca,Personal care,Card,13.43
+O0374,Amman,Groceries,Card,24.21
+O0375,Cairo,Groceries,Card,33.0
+O0376,Amman,Snacks,Card,17.01
+O0377,Riyadh,Groceries,Wallet,24.12
+O0378,Riyadh,Snacks,Card,101.17
+O0379,Cairo,Electronics,Card,56.44
+O0380,Casablanca,Snacks,Card,10.88
+O0381,Riyadh,Personal care,Card,25.55
+O0382,Riyadh,Beverages,Card,22.35
+O0383,Riyadh,Groceries,Card,39.9
+O0384,Casablanca,Stationery,Cash,17.11
+O0385,Riyadh,Groceries,Cash,60.84
+O0386,Riyadh,Stationery,Wallet,12.73
+O0387,Casablanca,Groceries,Card,68.54
+O0388,Amman,Stationery,Wallet,11.58
+O0389,Amman,Groceries,Card,69.57
+O0390,Riyadh,Home,Card,48.9
+O0391,Cairo,Beverages,Card,11.64
+O0392,Casablanca,Groceries,Card,55.01
+O0393,Cairo,Beverages,Card,17.24
+O0394,Riyadh,Toys,Wallet,21.16
+O0395,Cairo,Groceries,Card,32.84
+O0396,Riyadh,Electronics,Wallet,161.82
+O0397,Amman,Groceries,Card,30.04
+O0398,Cairo,Stationery,Cash,11.32
+O0399,Amman,Beverages,Card,27.22
+O0400,Riyadh,Snacks,Card,23.67
+O0401,Cairo,Toys,Cash,14.32
+O0402,Cairo,Personal care,Card,9.81
+O0403,Amman,Home,Card,29.86
+O0404,Riyadh,Snacks,Cash,12.85
+O0405,Riyadh,Personal care,Cash,45.29
+O0406,Cairo,Toys,Card,12.56
+O0407,Amman,Groceries,Card,49.43
+O0408,Riyadh,Groceries,Card,43.03
+O0409,Riyadh,Personal care,Card,15.55
+O0410,Riyadh,Stationery,Card,12.37
+O0411,Cairo,Snacks,Wallet,11.49
+O0412,Riyadh,Electronics,Card,69.64
+O0413,Casablanca,Beverages,Wallet,12.17
+O0414,Amman,Groceries,Wallet,17.4
+O0415,Cairo,Home,Card,16.7
+O0416,Casablanca,Groceries,Card,7.17
+O0417,Riyadh,Groceries,Card,29.89
+O0418,Casablanca,Personal care,Cash,22.23
+O0419,Riyadh,Toys,Card,51.75
+O0420,Riyadh,Personal care,Card,13.58
+O0421,Cairo,Snacks,Card,6.55
+O0422,Riyadh,Groceries,Card,48.95
+O0423,Cairo,Personal care,Card,30.3
+O0424,Riyadh,Personal care,Cash,49.62
+O0425,Riyadh,Groceries,Card,24.96
+O0426,Riyadh,Home,Card,51.04
+O0427,Riyadh,Groceries,Cash,24.08
+O0428,Amman,Toys,Wallet,33.44
+O0429,Amman,Groceries,Wallet,22.99
+O0430,Riyadh,Snacks,Cash,38.08
+O0431,Cairo,Snacks,Wallet,11.61
+O0432,Casablanca,Groceries,Card,60.96
+O0433,Casablanca,Home,Card,122.15
+O0434,Riyadh,Snacks,Card,11.72
+O0435,Riyadh,Groceries,Card,20.04
+O0436,Amman,Personal care,Card,37.32
+O0437,Cairo,Beverages,Card,14.28
+O0438,Casablanca,Home,Wallet,35.96
+O0439,Amman,Home,Cash,19.33
+O0440,Cairo,Personal care,Card,23.62
+O0441,Casablanca,Groceries,Cash,26.05
+O0442,Amman,Groceries,Cash,24.02
+O0443,Cairo,Home,Card,31.7
+O0444,Casablanca,Groceries,Card,21.41
+O0445,Cairo,Home,Wallet,35.18
+O0446,Casablanca,Groceries,Wallet,22.61
+O0447,Riyadh,Home,Cash,41.03
+O0448,Casablanca,Groceries,Wallet,60.06
+O0449,Casablanca,Groceries,Cash,29.22
+O0450,Amman,Personal care,Card,20.46
+O0451,Cairo,Groceries,Card,13.71
+O0452,Riyadh,Snacks,Cash,12.37
+O0453,Cairo,Groceries,Card,28.19
+O0454,Amman,Groceries,Card,28.85
+O0455,Amman,Groceries,Card,9.45
+O0456,Riyadh,Groceries,Card,18.27
+O0457,Cairo,Groceries,Card,33.96
+O0458,Casablanca,Home,Card,59.21
+O0459,Cairo,Beverages,Wallet,16.74
+O0460,Riyadh,Toys,Cash,49.48
+O0461,Casablanca,Home,Wallet,42.94
+O0462,Casablanca,Groceries,Card,25.05
+O0463,Cairo,Groceries,Card,19.94
+O0464,Riyadh,Electronics,Card,122.59
+O0465,Cairo,Snacks,Cash,21.53
+O0466,Riyadh,Groceries,Card,36.1
+O0467,Casablanca,Home,Card,127.51
+O0468,Amman,Groceries,Card,36.74
+O0469,Cairo,Stationery,Cash,13.64
+O0470,Riyadh,Groceries,Card,58.4
+O0471,Amman,Home,Card,33.99
+O0472,Riyadh,Snacks,Card,50.95
+O0473,Cairo,Stationery,Cash,10.4
+O0474,Casablanca,Beverages,Cash,12.89
+O0475,Riyadh,Stationery,Card,32.73
+O0476,Riyadh,Personal care,Card,27.63
+O0477,Casablanca,Groceries,Card,13.52
+O0478,Cairo,Beverages,Card,11.61
+O0479,Casablanca,Stationery,Cash,17.56
+O0480,Riyadh,Groceries,Cash,47.31
+O0481,Riyadh,Beverages,Card,23.83
+O0482,Riyadh,Snacks,Card,9.36
+O0483,Amman,Snacks,Card,11.41
+O0484,Amman,Home,Card,45.78
+O0485,Cairo,Groceries,Cash,14.35
+O0486,Cairo,Beverages,Cash,9.54
+O0487,Amman,Personal care,Cash,25.78
+O0488,Riyadh,Beverages,Cash,30.99
+O0489,Casablanca,Groceries,Cash,32.35
+O0490,Amman,Groceries,Card,49.69
+O0491,Cairo,Groceries,Wallet,11.48
+O0492,Cairo,Personal care,Wallet,22.13
+O0493,Amman,Groceries,Cash,68.66
+O0494,Casablanca,Groceries,Card,32.81
+O0495,Riyadh,Electronics,Card,49.82
+O0496,Riyadh,Groceries,Card,49.08
+O0497,Riyadh,Groceries,Card,33.51
+O0498,Casablanca,Groceries,Card,41.67
+O0499,Amman,Home,Card,59.86
+O0500,Riyadh,Groceries,Cash,56.48
+O0501,Amman,Groceries,Card,34.08
+O0502,Casablanca,Groceries,Card,44.15
+O0503,Riyadh,Electronics,Card,93.13
+O0504,Riyadh,Snacks,Card,23.47
+O0505,Casablanca,Beverages,Card,17.26
+O0506,Casablanca,Groceries,Card,9.89
+O0507,Cairo,Personal care,Card,15.86
+O0508,Casablanca,Beverages,Card,11.17
+O0509,Cairo,Electronics,Card,185.21
+O0510,Casablanca,Groceries,Card,23.08
+O0511,Casablanca,Snacks,Cash,15.01
+O0512,Casablanca,Groceries,Card,15.38
+O0513,Riyadh,Electronics,Card,98.68
+O0514,Cairo,Groceries,Card,14.65
+O0515,Amman,Toys,Card,47.94
+O0516,Riyadh,Toys,Cash,40.94
+O0517,Casablanca,Beverages,Cash,17.44
+O0518,Riyadh,Groceries,Wallet,36.17
+O0519,Casablanca,Groceries,Wallet,39.53
+O0520,Casablanca,Groceries,Cash,22.95
+O0521,Cairo,Personal care,Card,15.46
+O0522,Cairo,Toys,Card,31.9
+O0523,Cairo,Groceries,Card,34.94
+O0524,Cairo,Groceries,Card,10.85
+O0525,Riyadh,Beverages,Card,10.89
+O0526,Cairo,Stationery,Card,10.26
+O0527,Casablanca,Groceries,Card,31.63
+O0528,Riyadh,Beverages,Card,37.3
+O0529,Casablanca,Beverages,Card,17.92
+O0530,Riyadh,Snacks,Cash,11.45
+O0531,Casablanca,Groceries,Cash,21.97
+O0532,Riyadh,Home,Card,127.19
+O0533,Casablanca,Groceries,Card,28.48
+O0534,Amman,Groceries,Cash,23.43
+O0535,Casablanca,Electronics,Wallet,92.82
+O0536,Cairo,Personal care,Cash,15.11
+O0537,Cairo,Personal care,Wallet,9.67
+O0538,Amman,Home,Cash,47.81
+O0539,Riyadh,Groceries,Cash,42.63
+O0540,Cairo,Personal care,Card,19.22
+O0541,Riyadh,Home,Wallet,36.47
+O0542,Riyadh,Personal care,Card,11.75
+O0543,Cairo,Personal care,Card,9.21
+O0544,Cairo,Beverages,Card,9.89
+O0545,Casablanca,Beverages,Card,27.65
+O0546,Casablanca,Personal care,Cash,18.9
+O0547,Casablanca,Home,Cash,27.78
+O0548,Cairo,Groceries,Card,15.99
+O0549,Riyadh,Groceries,Wallet,20.24
+O0550,Riyadh,Beverages,Card,18.87
+O0551,Riyadh,Groceries,Wallet,23.98
+O0552,Riyadh,Groceries,Card,19.8
+O0553,Cairo,Home,Card,65.31
+O0554,Amman,Groceries,Card,36.2
+O0555,Riyadh,Electronics,Cash,111.19
+O0556,Casablanca,Home,Cash,61.18
+O0557,Casablanca,Beverages,Card,11.33
+O0558,Casablanca,Personal care,Card,8.42
+O0559,Riyadh,Groceries,Card,20.67
+O0560,Casablanca,Toys,Card,35.5
+O0561,Riyadh,Personal care,Card,29.17
+O0562,Riyadh,Snacks,Cash,18.42
+O0563,Casablanca,Personal care,Wallet,22.8
+O0564,Casablanca,Home,Card,38.69
+O0565,Riyadh,Beverages,Card,22.69
+O0566,Amman,Groceries,Cash,26.06
+O0567,Casablanca,Home,Card,72.63
+O0568,Casablanca,Personal care,Cash,41.16
+O0569,Casablanca,Home,Card,19.11
+O0570,Riyadh,Electronics,Cash,129.54
+O0571,Riyadh,Personal care,Card,62.39
+O0572,Casablanca,Groceries,Wallet,35.73
+O0573,Riyadh,Snacks,Card,27.14
+O0574,Cairo,Groceries,Card,21.15
+O0575,Amman,Snacks,Wallet,6.14
+O0576,Riyadh,Beverages,Card,16.04
+O0577,Riyadh,Groceries,Wallet,12.1
+O0578,Cairo,Groceries,Cash,38.04
+O0579,Casablanca,Groceries,Card,17.66
+O0580,Riyadh,Personal care,Card,35.02
+O0581,Riyadh,Home,Card,81.76
+O0582,Casablanca,Snacks,Wallet,23.01
+O0583,Amman,Electronics,Card,69.06
+O0584,Riyadh,Personal care,Cash,37.98
+O0585,Cairo,Groceries,Wallet,34.04
+O0586,Casablanca,Beverages,Card,18.82
+O0587,Cairo,Stationery,Card,8.0
+O0588,Amman,Groceries,Card,36.13
+O0589,Riyadh,Groceries,Cash,51.75
+O0590,Amman,Beverages,Card,8.63
+O0591,Cairo,Home,Card,45.18
+O0592,Casablanca,Personal care,Cash,23.98
+O0593,Cairo,Beverages,Card,11.26
+O0594,Casablanca,Beverages,Card,21.16
+O0595,Cairo,Personal care,Cash,20.0
+O0596,Cairo,Personal care,Card,6.93
+O0597,Casablanca,Stationery,Card,10.12
+O0598,Casablanca,Personal care,Cash,41.2
+O0599,Cairo,Groceries,Card,17.17
+O0600,Casablanca,Groceries,Cash,66.75
+O0601,Cairo,Personal care,Wallet,16.93
+O0602,Amman,Home,Card,35.3
+O0603,Riyadh,Home,Cash,99.62
+O0604,Amman,Personal care,Card,21.69
+O0605,Amman,Home,Card,31.35
+O0606,Amman,Groceries,Card,24.36
+O0607,Casablanca,Groceries,Cash,21.22
+O0608,Cairo,Stationery,Wallet,6.46
+O0609,Cairo,Snacks,Card,7.77
+O0610,Riyadh,Groceries,Cash,48.41
+O0611,Riyadh,Groceries,Card,41.55
+O0612,Amman,Groceries,Cash,15.08
+O0613,Cairo,Groceries,Cash,32.62
+O0614,Riyadh,Electronics,Card,189.33
+O0615,Riyadh,Groceries,Card,23.21
+O0616,Cairo,Snacks,Card,11.95
+O0617,Riyadh,Beverages,Card,20.43
+O0618,Amman,Beverages,Wallet,17.43
+O0619,Cairo,Snacks,Wallet,5.32
+O0620,Riyadh,Beverages,Card,97.76
+O0621,Casablanca,Groceries,Cash,19.63
+O0622,Riyadh,Groceries,Card,23.73
+O0623,Riyadh,Personal care,Card,25.18
+O0624,Cairo,Personal care,Card,27.91
+O0625,Riyadh,Groceries,Card,25.34
+O0626,Amman,Beverages,Card,19.31
+O0627,Amman,Beverages,Wallet,14.06
+O0628,Amman,Home,Card,69.6
+O0629,Casablanca,Electronics,Card,218.07
+O0630,Amman,Snacks,Wallet,12.68
+O0631,Riyadh,Beverages,Card,11.83
+O0632,Cairo,Personal care,Card,46.73
+O0633,Cairo,Electronics,Card,146.03
+O0634,Casablanca,Personal care,Card,54.15
+O0635,Cairo,Snacks,Wallet,19.17
+O0636,Amman,Beverages,Card,10.59
+O0637,Riyadh,Personal care,Cash,8.71
+O0638,Riyadh,Personal care,Wallet,40.48
+O0639,Riyadh,Groceries,Card,64.56
+O0640,Casablanca,Personal care,Cash,14.0
+O0641,Cairo,Groceries,Cash,9.6
+O0642,Amman,Snacks,Cash,10.53
+O0643,Riyadh,Beverages,Cash,16.7
+O0644,Amman,Groceries,Cash,16.86
+O0645,Riyadh,Toys,Card,14.78
+O0646,Cairo,Home,Card,21.07
+O0647,Amman,Snacks,Card,12.25
+O0648,Casablanca,Groceries,Cash,7.25
+O0649,Riyadh,Snacks,Card,39.01
+O0650,Cairo,Groceries,Cash,19.53
+O0651,Cairo,Home,Card,33.36
+O0652,Casablanca,Beverages,Card,7.05
+O0653,Riyadh,Groceries,Card,38.14
+O0654,Cairo,Personal care,Card,24.46
+O0655,Cairo,Groceries,Card,14.93
+O0656,Casablanca,Groceries,Card,16.64
+O0657,Riyadh,Electronics,Card,106.38
+O0658,Amman,Personal care,Card,17.17
+O0659,Riyadh,Snacks,Wallet,15.36
+O0660,Riyadh,Groceries,Card,48.41
+O0661,Riyadh,Home,Card,40.18
+O0662,Riyadh,Groceries,Wallet,35.24
+O0663,Casablanca,Beverages,Cash,10.72
+O0664,Casablanca,Groceries,Cash,44.02
+O0665,Amman,Stationery,Cash,16.5
+O0666,Casablanca,Snacks,Cash,10.84
+O0667,Casablanca,Snacks,Card,21.16
+O0668,Riyadh,Snacks,Cash,12.16
+O0669,Amman,Groceries,Card,19.15
+O0670,Cairo,Groceries,Cash,30.12
+O0671,Riyadh,Personal care,Wallet,39.73
+O0672,Riyadh,Beverages,Wallet,15.65
+O0673,Riyadh,Personal care,Cash,25.44
+O0674,Riyadh,Personal care,Card,56.69
+O0675,Cairo,Snacks,Card,16.55
+O0676,Cairo,Beverages,Wallet,11.3
+O0677,Amman,Home,Cash,30.41
+O0678,Cairo,Home,Cash,51.81
+O0679,Riyadh,Groceries,Card,22.66
+O0680,Riyadh,Groceries,Card,35.34
+O0681,Riyadh,Personal care,Card,29.86
+O0682,Casablanca,Electronics,Cash,47.59
+O0683,Amman,Groceries,Card,48.84
+O0684,Casablanca,Personal care,Card,48.58
+O0685,Riyadh,Groceries,Wallet,57.25
+O0686,Cairo,Home,Card,36.74
+O0687,Riyadh,Groceries,Wallet,18.71
+O0688,Casablanca,Groceries,Card,53.67
+O0689,Casablanca,Toys,Card,28.2
+O0690,Cairo,Beverages,Card,8.03
+O0691,Cairo,Groceries,Card,12.57
+O0692,Riyadh,Personal care,Card,23.66
+O0693,Amman,Electronics,Card,43.7
+O0694,Casablanca,Snacks,Wallet,4.41
+O0695,Cairo,Groceries,Card,38.18
+O0696,Riyadh,Toys,Card,56.17
+O0697,Riyadh,Electronics,Card,98.7
+O0698,Cairo,Toys,Card,12.16
+O0699,Riyadh,Home,Cash,77.0
+O0700,Riyadh,Snacks,Wallet,14.53
+O0701,Casablanca,Electronics,Card,78.15
+O0702,Cairo,Groceries,Card,14.25
+O0703,Cairo,Beverages,Card,12.32
+O0704,Cairo,Groceries,Card,13.89
+O0705,Riyadh,Groceries,Card,20.82
+O0706,Amman,Groceries,Card,68.27
+O0707,Amman,Personal care,Card,51.68
+O0708,Cairo,Personal care,Card,24.16
+O0709,Amman,Groceries,Card,30.97
+O0710,Riyadh,Home,Cash,69.94
+O0711,Cairo,Toys,Cash,19.5
+O0712,Casablanca,Groceries,Cash,20.1
+O0713,Amman,Groceries,Card,17.25
+O0714,Riyadh,Beverages,Cash,15.01
+O0715,Riyadh,Groceries,Wallet,28.11
+O0716,Amman,Home,Cash,64.15
+O0717,Riyadh,Groceries,Wallet,18.35
+O0718,Riyadh,Electronics,Cash,101.37
+O0719,Casablanca,Personal care,Cash,9.05
+O0720,Cairo,Home,Card,38.05
+O0721,Riyadh,Groceries,Card,118.09
+O0722,Riyadh,Beverages,Cash,11.61
+O0723,Casablanca,Personal care,Wallet,18.3
+O0724,Casablanca,Beverages,Card,7.45
+O0725,Riyadh,Beverages,Wallet,18.24
+O0726,Casablanca,Groceries,Card,37.86
+O0727,Amman,Beverages,Card,9.21
+O0728,Casablanca,Groceries,Cash,31.74
+O0729,Amman,Groceries,Cash,16.53
+O0730,Riyadh,Snacks,Cash,16.35
+O0731,Cairo,Groceries,Card,31.16
+O0732,Casablanca,Electronics,Card,37.13
+O0733,Cairo,Groceries,Cash,26.18
+O0734,Riyadh,Home,Cash,93.66
+O0735,Cairo,Beverages,Card,10.03
+O0736,Cairo,Electronics,Cash,103.07
+O0737,Amman,Beverages,Card,16.6
+O0738,Amman,Groceries,Cash,42.24
+O0739,Amman,Personal care,Card,33.28
+O0740,Riyadh,Beverages,Card,42.71
+O0741,Casablanca,Beverages,Cash,24.68
+O0742,Casablanca,Personal care,Cash,29.52
+O0743,Casablanca,Snacks,Card,10.83
+O0744,Casablanca,Groceries,Wallet,74.61
+O0745,Amman,Snacks,Card,6.03
+O0746,Cairo,Home,Wallet,58.0
+O0747,Casablanca,Home,Cash,140.15
+O0748,Casablanca,Beverages,Cash,19.05
+O0749,Casablanca,Personal care,Card,33.92
+O0750,Riyadh,Beverages,Card,12.05
+O0751,Riyadh,Home,Cash,41.16
+O0752,Casablanca,Personal care,Card,62.86
+O0753,Casablanca,Toys,Card,39.19
+O0754,Riyadh,Personal care,Cash,23.67
+O0755,Amman,Stationery,Card,14.09
+O0756,Casablanca,Beverages,Card,29.24
+O0757,Amman,Beverages,Cash,16.76
+O0758,Casablanca,Beverages,Card,38.59
+O0759,Riyadh,Personal care,Card,28.41
+O0760,Cairo,Beverages,Card,11.43
+O0761,Casablanca,Groceries,Card,17.51
+O0762,Casablanca,Snacks,Card,28.44
+O0763,Cairo,Snacks,Wallet,3.38
+O0764,Cairo,Personal care,Card,30.54
+O0765,Riyadh,Stationery,Card,21.91
+O0766,Cairo,Groceries,Card,22.83
+O0767,Cairo,Personal care,Cash,10.38
+O0768,Riyadh,Personal care,Cash,28.75
+O0769,Cairo,Groceries,Card,39.68
+O0770,Cairo,Groceries,Wallet,19.17
+O0771,Riyadh,Groceries,Wallet,28.5
+O0772,Riyadh,Groceries,Cash,86.46
+O0773,Riyadh,Groceries,Cash,54.13
+O0774,Casablanca,Groceries,Card,22.13
+O0775,Riyadh,Groceries,Card,59.9
+O0776,Riyadh,Toys,Card,30.01
+O0777,Riyadh,Electronics,Cash,78.65
+O0778,Riyadh,Snacks,Card,8.76
+O0779,Riyadh,Personal care,Card,35.58
+O0780,Riyadh,Groceries,Card,37.88
+O0781,Riyadh,Groceries,Card,54.01
+O0782,Casablanca,Beverages,Cash,21.91
+O0783,Cairo,Groceries,Card,25.35
+O0784,Riyadh,Beverages,Cash,23.47
+O0785,Casablanca,Stationery,Card,38.12
+O0786,Cairo,Snacks,Cash,6.92
+O0787,Cairo,Snacks,Cash,11.14
+O0788,Cairo,Toys,Card,29.54
+O0789,Casablanca,Personal care,Cash,59.43
+O0790,Riyadh,Groceries,Wallet,157.73
+O0791,Riyadh,Electronics,Card,317.97
+O0792,Riyadh,Groceries,Card,23.37
+O0793,Cairo,Beverages,Card,7.68
+O0794,Amman,Beverages,Card,19.54
+O0795,Casablanca,Home,Card,49.79
+O0796,Cairo,Personal care,Cash,11.77
+O0797,Riyadh,Groceries,Cash,54.0
+O0798,Casablanca,Toys,Card,22.57
+O0799,Casablanca,Electronics,Card,147.03
+O0800,Casablanca,Toys,Cash,9.58
+O0801,Riyadh,Beverages,Wallet,31.06
+O0802,Amman,Electronics,Cash,38.09
+O0803,Casablanca,Snacks,Card,27.94
+O0804,Cairo,Snacks,Wallet,9.47
+O0805,Amman,Home,Card,45.07
+O0806,Cairo,Beverages,Cash,8.86
+O0807,Amman,Snacks,Cash,9.44
+O0808,Riyadh,Home,Card,39.53
+O0809,Riyadh,Home,Card,94.92
+O0810,Casablanca,Personal care,Card,20.55
+O0811,Riyadh,Home,Card,46.23
+O0812,Cairo,Beverages,Cash,22.67
+O0813,Riyadh,Beverages,Cash,19.65
+O0814,Casablanca,Personal care,Wallet,28.87
+O0815,Riyadh,Personal care,Wallet,31.01
+O0816,Casablanca,Snacks,Card,7.62
+O0817,Riyadh,Electronics,Wallet,66.77
+O0818,Amman,Groceries,Wallet,43.68
+O0819,Cairo,Beverages,Card,18.03
+O0820,Cairo,Toys,Card,25.76
+O0821,Riyadh,Beverages,Cash,36.95
+O0822,Amman,Home,Card,61.14
+O0823,Riyadh,Home,Cash,57.53
+O0824,Cairo,Groceries,Cash,23.54
+O0825,Casablanca,Home,Cash,16.73
+O0826,Riyadh,Snacks,Cash,9.9
+O0827,Riyadh,Personal care,Card,35.43
+O0828,Casablanca,Stationery,Cash,15.5
+O0829,Cairo,Groceries,Cash,19.57
+O0830,Casablanca,Stationery,Cash,39.3
+O0831,Casablanca,Beverages,Card,19.26
+O0832,Casablanca,Stationery,Card,21.52
+O0833,Amman,Stationery,Card,19.01
+O0834,Cairo,Groceries,Wallet,89.85
+O0835,Cairo,Groceries,Wallet,45.87
+O0836,Cairo,Beverages,Cash,18.26
+O0837,Cairo,Personal care,Card,12.99
+O0838,Riyadh,Groceries,Card,23.33
+O0839,Casablanca,Personal care,Wallet,38.28
+O0840,Cairo,Beverages,Card,8.92
+O0841,Cairo,Stationery,Card,10.88
+O0842,Amman,Beverages,Card,53.66
+O0843,Casablanca,Snacks,Card,11.62
+O0844,Riyadh,Beverages,Cash,16.71
+O0845,Riyadh,Beverages,Wallet,11.77
+O0846,Riyadh,Groceries,Card,91.34
+O0847,Cairo,Groceries,Card,36.59
+O0848,Casablanca,Toys,Card,28.96
+O0849,Cairo,Groceries,Card,39.47
+O0850,Amman,Groceries,Wallet,34.78
+O0851,Cairo,Electronics,Cash,122.83
+O0852,Cairo,Beverages,Card,13.02
+O0853,Riyadh,Home,Card,57.98
+O0854,Casablanca,Electronics,Card,81.23
+O0855,Casablanca,Groceries,Card,30.98
+O0856,Amman,Beverages,Card,8.08
+O0857,Amman,Groceries,Cash,16.16
+O0858,Cairo,Groceries,Card,56.61
+O0859,Riyadh,Groceries,Card,35.46
+O0860,Riyadh,Groceries,Card,57.7
+O0861,Amman,Beverages,Card,17.06
+O0862,Casablanca,Beverages,Cash,21.24
+O0863,Casablanca,Personal care,Wallet,19.16
+O0864,Cairo,Personal care,Card,12.8
+O0865,Riyadh,Beverages,Card,12.44
+O0866,Casablanca,Snacks,Card,26.14
+O0867,Amman,Groceries,Card,17.4
+O0868,Cairo,Toys,Wallet,21.43
+O0869,Amman,Personal care,Card,29.2
+O0870,Riyadh,Electronics,Card,112.64
+O0871,Riyadh,Groceries,Card,27.85
+O0872,Riyadh,Home,Cash,60.63
+O0873,Casablanca,Groceries,Cash,52.49
+O0874,Cairo,Groceries,Card,21.37
+O0875,Cairo,Personal care,Card,21.5
+O0876,Amman,Groceries,Wallet,9.52
+O0877,Riyadh,Beverages,Card,11.07
+O0878,Riyadh,Personal care,Card,39.49
+O0879,Amman,Toys,Card,41.88
+O0880,Casablanca,Personal care,Card,46.45
+O0881,Riyadh,Groceries,Cash,106.49
+O0882,Cairo,Beverages,Wallet,22.87
+O0883,Cairo,Stationery,Wallet,28.5
+O0884,Cairo,Snacks,Card,15.7
+O0885,Riyadh,Beverages,Cash,48.69
+O0886,Riyadh,Groceries,Cash,25.63
+O0887,Riyadh,Home,Card,28.54
+O0888,Cairo,Home,Card,31.93
+O0889,Riyadh,Groceries,Card,17.38
+O0890,Casablanca,Home,Cash,44.83
+O0891,Casablanca,Snacks,Card,22.32
+O0892,Cairo,Home,Card,41.95
+O0893,Riyadh,Beverages,Card,24.87
+O0894,Casablanca,Beverages,Card,37.36
+O0895,Cairo,Beverages,Cash,6.93
+O0896,Casablanca,Groceries,Card,14.28
+O0897,Riyadh,Groceries,Card,24.2
+O0898,Riyadh,Home,Card,93.68
+O0899,Cairo,Personal care,Wallet,14.81
+O0900,Riyadh,Groceries,Card,83.17
+O0901,Riyadh,Groceries,Wallet,48.32
+O0902,Riyadh,Groceries,Card,8.87
+O0903,Riyadh,Groceries,Cash,30.35
+O0904,Cairo,Snacks,Card,10.76
+O0905,Riyadh,Groceries,Card,100.29
+O0906,Casablanca,Groceries,Card,48.26
+O0907,Cairo,Beverages,Cash,19.1
+O0908,Amman,Personal care,Card,17.48
+O0909,Riyadh,Groceries,Cash,12.33
+O0910,Casablanca,Groceries,Cash,41.88
+O0911,Casablanca,Groceries,Card,60.92
+O0912,Cairo,Snacks,Card,7.9
+O0913,Cairo,Snacks,Cash,8.45
+O0914,Riyadh,Beverages,Wallet,39.81
+O0915,Amman,Groceries,Cash,24.05
+O0916,Amman,Beverages,Card,10.49
+O0917,Riyadh,Groceries,Card,31.93
+O0918,Riyadh,Personal care,Card,51.39
+O0919,Riyadh,Stationery,Card,26.62
+O0920,Casablanca,Beverages,Card,12.22
+O0921,Casablanca,Groceries,Card,15.27
+O0922,Casablanca,Groceries,Cash,30.68
+O0923,Cairo,Snacks,Cash,6.53
+O0924,Amman,Beverages,Wallet,13.27
+O0925,Casablanca,Groceries,Cash,23.88
+O0926,Riyadh,Groceries,Card,68.4
+O0927,Casablanca,Groceries,Card,58.51
+O0928,Casablanca,Personal care,Card,37.94
+O0929,Cairo,Personal care,Card,39.45
+O0930,Casablanca,Groceries,Card,27.96
+O0931,Cairo,Electronics,Cash,45.51
+O0932,Amman,Groceries,Card,21.5
+O0933,Amman,Stationery,Card,26.46
+O0934,Riyadh,Beverages,Card,28.71
+O0935,Riyadh,Beverages,Cash,14.16
+O0936,Riyadh,Groceries,Card,40.45
+O0937,Casablanca,Personal care,Card,20.24
+O0938,Casablanca,Beverages,Cash,32.98
+O0939,Cairo,Electronics,Cash,104.48
+O0940,Casablanca,Personal care,Cash,32.58
+O0941,Cairo,Stationery,Cash,12.44
+O0942,Amman,Personal care,Wallet,21.32
+O0943,Riyadh,Groceries,Wallet,46.72
+O0944,Amman,Groceries,Card,20.13
+O0945,Cairo,Groceries,Card,58.28
+O0946,Amman,Groceries,Card,13.63
+O0947,Amman,Snacks,Cash,7.6
+O0948,Cairo,Home,Card,42.41
+O0949,Amman,Beverages,Cash,11.09
+O0950,Amman,Groceries,Cash,23.18
+O0951,Casablanca,Groceries,Card,13.62
+O0952,Cairo,Beverages,Card,30.53
+O0953,Cairo,Beverages,Card,15.67
+O0954,Riyadh,Groceries,Card,41.43
+O0955,Casablanca,Groceries,Cash,49.86
+O0956,Riyadh,Groceries,Cash,21.44
+O0957,Cairo,Electronics,Cash,151.08
+O0958,Riyadh,Personal care,Card,23.52
+O0959,Cairo,Groceries,Card,42.04
+O0960,Amman,Groceries,Cash,46.23
+O0961,Riyadh,Snacks,Card,18.86
+O0962,Cairo,Beverages,Cash,13.13
+O0963,Casablanca,Groceries,Card,32.1
+O0964,Amman,Personal care,Wallet,52.56
+O0965,Casablanca,Beverages,Card,43.93
+O0966,Cairo,Snacks,Wallet,15.03
+O0967,Cairo,Home,Card,29.37
+O0968,Cairo,Toys,Card,38.24
+O0969,Riyadh,Snacks,Card,17.24
+O0970,Cairo,Personal care,Card,14.93
+O0971,Amman,Personal care,Card,29.98
+O0972,Amman,Snacks,Cash,12.88
+O0973,Amman,Personal care,Card,15.88
+O0974,Cairo,Groceries,Card,26.81
+O0975,Amman,Beverages,Cash,39.68
+O0976,Amman,Home,Wallet,40.39
+O0977,Riyadh,Home,Card,64.84
+O0978,Casablanca,Groceries,Wallet,33.4
+O0979,Riyadh,Groceries,Wallet,69.06
+O0980,Riyadh,Groceries,Cash,31.75
+O0981,Cairo,Home,Cash,60.89
+O0982,Riyadh,Personal care,Wallet,64.5
+O0983,Casablanca,Groceries,Card,16.91
+O0984,Riyadh,Snacks,Wallet,44.04
+O0985,Riyadh,Personal care,Cash,93.64
+O0986,Riyadh,Home,Cash,64.9
+O0987,Cairo,Electronics,Card,76.22
+O0988,Casablanca,Beverages,Cash,6.34
+O0989,Amman,Beverages,Card,14.39
+O0990,Amman,Snacks,Cash,6.67
+O0991,Cairo,Groceries,Wallet,27.65
+O0992,Amman,Groceries,Card,16.83
+O0993,Riyadh,Personal care,Card,44.74
+O0994,Casablanca,Stationery,Card,12.76
+O0995,Casablanca,Groceries,Wallet,35.65
+O0996,Casablanca,Snacks,Card,6.7
+O0997,Casablanca,Snacks,Card,27.54
+O0998,Riyadh,Beverages,Card,23.16
+O0999,Casablanca,Snacks,Wallet,18.04
+O1000,Cairo,Groceries,Card,51.79
+O1001,Cairo,Groceries,Cash,23.0
+O1002,Riyadh,Personal care,Cash,19.72
+O1003,Cairo,Personal care,Wallet,25.73
+O1004,Cairo,Groceries,Cash,44.14
+O1005,Cairo,Groceries,Card,44.86
+O1006,Casablanca,Groceries,Wallet,29.58
+O1007,Cairo,Groceries,Card,20.03
+O1008,Riyadh,Beverages,Card,41.85
+O1009,Cairo,Groceries,Cash,33.24
+O1010,Riyadh,Toys,Card,25.42
+O1011,Cairo,Snacks,Card,5.0
+O1012,Riyadh,Home,Card,58.71
+O1013,Riyadh,Personal care,Cash,20.76
+O1014,Riyadh,Beverages,Cash,23.08
+O1015,Cairo,Home,Card,24.2
+O1016,Cairo,Groceries,Card,19.45
+O1017,Amman,Groceries,Wallet,34.48
+O1018,Cairo,Home,Card,48.19
+O1019,Cairo,Beverages,Cash,11.58
+O1020,Cairo,Beverages,Card,7.57
+O1021,Riyadh,Groceries,Card,27.47
+O1022,Casablanca,Personal care,Cash,20.87
+O1023,Riyadh,Personal care,Card,20.28
+O1024,Casablanca,Home,Card,42.4
+O1025,Riyadh,Stationery,Card,18.2
+O1026,Cairo,Beverages,Cash,12.59
+O1027,Cairo,Snacks,Cash,30.96
+O1028,Casablanca,Snacks,Card,8.51
+O1029,Amman,Groceries,Cash,26.16
+O1030,Amman,Groceries,Card,26.39
+O1031,Cairo,Beverages,Wallet,10.83
+O1032,Riyadh,Beverages,Card,16.84
+O1033,Amman,Personal care,Card,16.42
+O1034,Cairo,Groceries,Cash,10.25
+O1035,Casablanca,Beverages,Card,15.7
+O1036,Amman,Groceries,Card,36.83
+O1037,Riyadh,Snacks,Cash,28.64
+O1038,Riyadh,Snacks,Cash,41.14
+O1039,Casablanca,Beverages,Cash,12.6
+O1040,Riyadh,Electronics,Card,72.87
+O1041,Riyadh,Toys,Card,23.84
+O1042,Casablanca,Beverages,Cash,25.77
+O1043,Riyadh,Groceries,Cash,63.0
+O1044,Cairo,Personal care,Cash,13.25
+O1045,Amman,Groceries,Cash,14.22
+O1046,Riyadh,Snacks,Card,13.56
+O1047,Amman,Beverages,Card,17.21
+O1048,Casablanca,Personal care,Wallet,29.66
+O1049,Amman,Beverages,Cash,22.7
+O1050,Amman,Personal care,Wallet,19.23
+O1051,Riyadh,Groceries,Card,33.99
+O1052,Cairo,Beverages,Card,19.64
+O1053,Amman,Personal care,Cash,30.65
+O1054,Cairo,Snacks,Card,7.98
+O1055,Riyadh,Groceries,Card,18.3
+O1056,Amman,Groceries,Cash,16.14
+O1057,Casablanca,Personal care,Card,26.99
+O1058,Amman,Groceries,Card,19.5
+O1059,Cairo,Personal care,Card,21.18
+O1060,Casablanca,Snacks,Card,20.19
+O1061,Cairo,Groceries,Card,18.44
+O1062,Cairo,Groceries,Cash,68.96
+O1063,Amman,Beverages,Wallet,14.53
+O1064,Cairo,Home,Card,32.79
+O1065,Cairo,Toys,Cash,54.79
+O1066,Casablanca,Groceries,Cash,21.18
+O1067,Riyadh,Groceries,Wallet,45.19
+O1068,Riyadh,Groceries,Cash,56.99
+O1069,Riyadh,Groceries,Card,66.86
+O1070,Cairo,Personal care,Card,17.03
+O1071,Riyadh,Groceries,Card,23.37
+O1072,Amman,Groceries,Card,27.91
+O1073,Cairo,Home,Card,44.89
+O1074,Cairo,Snacks,Card,8.02
+O1075,Casablanca,Beverages,Card,16.91
+O1076,Riyadh,Home,Card,78.01
+O1077,Riyadh,Beverages,Card,25.69
+O1078,Cairo,Beverages,Card,11.74
+O1079,Casablanca,Groceries,Card,38.19
+O1080,Riyadh,Beverages,Card,21.19
+O1081,Casablanca,Electronics,Wallet,126.43
+O1082,Casablanca,Beverages,Cash,10.64
+O1083,Cairo,Beverages,Cash,28.81
+O1084,Casablanca,Groceries,Cash,23.3
+O1085,Casablanca,Beverages,Card,8.41
+O1086,Casablanca,Personal care,Cash,37.57
+O1087,Amman,Stationery,Card,7.96
+O1088,Riyadh,Groceries,Card,28.86
+O1089,Cairo,Home,Card,39.88
+O1090,Cairo,Home,Card,34.76
+O1091,Cairo,Electronics,Card,57.18
+O1092,Cairo,Snacks,Cash,22.82
+O1093,Cairo,Beverages,Cash,7.77
+O1094,Amman,Beverages,Card,20.96
+O1095,Cairo,Snacks,Card,9.23
+O1096,Casablanca,Beverages,Card,12.53
+O1097,Casablanca,Beverages,Card,11.2
+O1098,Riyadh,Groceries,Wallet,28.82
+O1099,Cairo,Stationery,Card,16.75
+O1100,Riyadh,Snacks,Wallet,9.64
+O1101,Riyadh,Groceries,Cash,26.36
+O1102,Casablanca,Groceries,Wallet,26.47
+O1103,Casablanca,Groceries,Wallet,21.69
+O1104,Cairo,Groceries,Card,22.39
+O1105,Casablanca,Home,Card,45.07
+O1106,Casablanca,Home,Card,28.44
+O1107,Cairo,Beverages,Card,14.69
+O1108,Cairo,Home,Cash,64.85
+O1109,Casablanca,Beverages,Card,8.72
+O1110,Cairo,Groceries,Card,15.62
+O1111,Casablanca,Snacks,Card,19.06
+O1112,Cairo,Home,Cash,27.86
+O1113,Casablanca,Groceries,Card,36.22
+O1114,Amman,Home,Wallet,38.19
+O1115,Riyadh,Groceries,Wallet,50.74
+O1116,Riyadh,Toys,Cash,20.28
+O1117,Casablanca,Beverages,Cash,19.34
+O1118,Cairo,Electronics,Wallet,105.59
+O1119,Casablanca,Home,Card,69.37
+O1120,Casablanca,Groceries,Card,44.27
+O1121,Casablanca,Personal care,Card,27.36
+O1122,Amman,Home,Card,30.6
+O1123,Casablanca,Snacks,Cash,11.15
+O1124,Amman,Electronics,Wallet,104.5
+O1125,Riyadh,Snacks,Card,15.36
+O1126,Casablanca,Groceries,Card,47.07
+O1127,Amman,Beverages,Wallet,11.18
+O1128,Amman,Electronics,Card,58.45
+O1129,Amman,Electronics,Card,54.31
+O1130,Casablanca,Beverages,Cash,30.37
+O1131,Riyadh,Home,Wallet,54.4
+O1132,Amman,Groceries,Card,16.21
+O1133,Cairo,Groceries,Card,19.54
+O1134,Amman,Groceries,Card,36.91
+O1135,Amman,Personal care,Card,32.69
+O1136,Amman,Toys,Wallet,29.64
+O1137,Amman,Groceries,Card,8.35
+O1138,Riyadh,Beverages,Wallet,15.49
+O1139,Casablanca,Personal care,Card,37.22
+O1140,Cairo,Toys,Cash,14.07
+O1141,Casablanca,Groceries,Wallet,27.49
+O1142,Cairo,Snacks,Card,9.56
+O1143,Cairo,Snacks,Card,12.89
+O1144,Riyadh,Groceries,Wallet,27.91
+O1145,Riyadh,Groceries,Card,18.83
+O1146,Cairo,Groceries,Cash,8.76
+O1147,Cairo,Snacks,Card,17.24
+O1148,Cairo,Stationery,Card,5.73
+O1149,Cairo,Toys,Card,15.01
+O1150,Cairo,Beverages,Cash,10.91
+O1151,Riyadh,Personal care,Card,19.88
+O1152,Cairo,Snacks,Card,10.76
+O1153,Cairo,Groceries,Wallet,29.0
+O1154,Casablanca,Groceries,Cash,34.51
+O1155,Cairo,Personal care,Card,8.84
+O1156,Riyadh,Beverages,Cash,17.36
+O1157,Riyadh,Snacks,Cash,10.3
+O1158,Amman,Personal care,Card,18.34
+O1159,Cairo,Snacks,Wallet,11.3
+O1160,Riyadh,Toys,Card,32.03
+O1161,Casablanca,Groceries,Card,8.94
+O1162,Cairo,Snacks,Card,4.41
+O1163,Amman,Groceries,Cash,28.39
+O1164,Riyadh,Beverages,Cash,18.09
+O1165,Riyadh,Home,Card,48.7
+O1166,Cairo,Snacks,Card,14.72
+O1167,Cairo,Home,Cash,28.33
+O1168,Riyadh,Personal care,Card,15.75
+O1169,Cairo,Personal care,Card,35.48
+O1170,Riyadh,Groceries,Cash,17.78
+O1171,Casablanca,Snacks,Card,33.96
+O1172,Casablanca,Groceries,Wallet,22.72
+O1173,Amman,Toys,Card,20.55
+O1174,Cairo,Personal care,Card,14.72
+O1175,Riyadh,Groceries,Cash,92.64
+O1176,Casablanca,Stationery,Card,21.35
+O1177,Riyadh,Groceries,Card,77.66
+O1178,Cairo,Groceries,Cash,15.48
+O1179,Riyadh,Groceries,Cash,19.65
+O1180,Riyadh,Groceries,Wallet,33.07
+O1181,Cairo,Groceries,Card,32.17
+O1182,Riyadh,Personal care,Wallet,30.67
+O1183,Casablanca,Personal care,Cash,26.46
+O1184,Cairo,Groceries,Wallet,51.88
+O1185,Cairo,Groceries,Cash,34.24
+O1186,Cairo,Home,Card,28.77
+O1187,Cairo,Stationery,Card,9.82
+O1188,Cairo,Groceries,Card,35.91
+O1189,Casablanca,Groceries,Cash,32.69
+O1190,Cairo,Groceries,Card,22.16
+O1191,Cairo,Beverages,Card,14.3
+O1192,Riyadh,Groceries,Card,54.75
+O1193,Cairo,Personal care,Cash,15.55
+O1194,Riyadh,Personal care,Card,36.29
+O1195,Riyadh,Electronics,Card,133.27
+O1196,Riyadh,Personal care,Card,61.1
+O1197,Riyadh,Groceries,Card,56.43
+O1198,Riyadh,Groceries,Wallet,35.35
+O1199,Riyadh,Home,Card,88.37
+O1200,Cairo,Electronics,Card,36.94
+O1201,Riyadh,Snacks,Card,6.7
+O1202,Cairo,Groceries,Cash,20.66
+O1203,Amman,Groceries,Card,26.45
+O1204,Riyadh,Snacks,Card,16.49
+O1205,Amman,Beverages,Card,10.03
+O1206,Riyadh,Toys,Wallet,21.55
+O1207,Cairo,Beverages,Card,9.95
+O1208,Casablanca,Personal care,Wallet,45.32
+O1209,Riyadh,Snacks,Card,13.02
+O1210,Cairo,Groceries,Wallet,27.26
+O1211,Amman,Stationery,Cash,10.68
+O1212,Cairo,Electronics,Card,46.48
+O1213,Riyadh,Personal care,Cash,20.58
+O1214,Casablanca,Beverages,Cash,8.15
+O1215,Amman,Beverages,Wallet,18.03
+O1216,Amman,Snacks,Card,33.6
+O1217,Riyadh,Electronics,Cash,87.19
+O1218,Cairo,Groceries,Wallet,25.34
+O1219,Cairo,Personal care,Card,23.66
+O1220,Riyadh,Personal care,Card,32.78
+O1221,Riyadh,Groceries,Cash,26.49
+O1222,Cairo,Groceries,Card,25.09
+O1223,Riyadh,Groceries,Cash,25.15
+O1224,Cairo,Groceries,Card,58.85
+O1225,Casablanca,Stationery,Card,22.17
+O1226,Riyadh,Snacks,Wallet,15.6
+O1227,Casablanca,Beverages,Cash,22.28
+O1228,Casablanca,Home,Card,114.41
+O1229,Cairo,Personal care,Cash,21.3
+O1230,Riyadh,Groceries,Wallet,44.51
+O1231,Riyadh,Stationery,Cash,16.32
+O1232,Riyadh,Groceries,Card,47.71
+O1233,Riyadh,Snacks,Cash,20.22
+O1234,Amman,Groceries,Cash,43.95
+O1235,Cairo,Personal care,Cash,11.67
+O1236,Casablanca,Beverages,Card,13.37
+O1237,Cairo,Beverages,Card,19.82
+O1238,Cairo,Snacks,Cash,10.43
+O1239,Riyadh,Personal care,Cash,10.41
+O1240,Amman,Personal care,Card,16.26
+O1241,Cairo,Groceries,Card,62.63
+O1242,Riyadh,Groceries,Card,59.21
+O1243,Riyadh,Beverages,Card,38.36
+O1244,Casablanca,Groceries,Wallet,41.58
+O1245,Casablanca,Groceries,Card,10.22
+O1246,Casablanca,Electronics,Card,113.27
+O1247,Riyadh,Groceries,Cash,23.24
+O1248,Amman,Groceries,Wallet,44.86
+O1249,Cairo,Beverages,Card,5.23
+O1250,Riyadh,Home,Wallet,38.33
+O1251,Cairo,Personal care,Card,33.66
+O1252,Riyadh,Beverages,Card,20.04
+O1253,Riyadh,Personal care,Card,20.17
+O1254,Amman,Snacks,Cash,7.58
+O1255,Casablanca,Groceries,Card,15.9
+O1256,Cairo,Beverages,Card,11.84
+O1257,Amman,Personal care,Wallet,16.33
+O1258,Cairo,Beverages,Card,10.48
+O1259,Riyadh,Electronics,Wallet,156.9
+O1260,Riyadh,Stationery,Card,23.6
+O1261,Riyadh,Personal care,Wallet,32.88
+O1262,Amman,Beverages,Wallet,9.56
+O1263,Riyadh,Groceries,Cash,15.9
+O1264,Riyadh,Personal care,Cash,45.16
+O1265,Casablanca,Beverages,Card,12.81
+O1266,Amman,Beverages,Cash,9.98
+O1267,Cairo,Electronics,Card,83.54
+O1268,Riyadh,Snacks,Card,15.18
+O1269,Casablanca,Groceries,Cash,15.32
+O1270,Riyadh,Groceries,Card,44.7
+O1271,Riyadh,Groceries,Card,41.79
+O1272,Cairo,Home,Cash,24.04
+O1273,Cairo,Home,Cash,38.69
+O1274,Casablanca,Snacks,Wallet,23.79
+O1275,Amman,Groceries,Cash,15.1
+O1276,Riyadh,Personal care,Card,25.46
+O1277,Riyadh,Groceries,Card,38.14
+O1278,Casablanca,Groceries,Cash,57.13
+O1279,Casablanca,Snacks,Card,13.69
+O1280,Casablanca,Beverages,Card,8.55
+O1281,Cairo,Personal care,Card,15.07
+O1282,Casablanca,Groceries,Wallet,17.54
+O1283,Cairo,Home,Card,25.2
+O1284,Amman,Home,Card,50.77
+O1285,Cairo,Personal care,Card,16.11
+O1286,Cairo,Personal care,Card,30.13
+O1287,Cairo,Stationery,Card,9.64
+O1288,Cairo,Groceries,Card,35.48
+O1289,Casablanca,Groceries,Card,56.57
+O1290,Cairo,Personal care,Cash,28.47
+O1291,Cairo,Electronics,Card,49.62
+O1292,Cairo,Groceries,Cash,41.02
+O1293,Riyadh,Electronics,Card,144.85
+O1294,Casablanca,Personal care,Cash,23.05
+O1295,Cairo,Toys,Card,18.12
+O1296,Riyadh,Beverages,Card,20.77
+O1297,Riyadh,Stationery,Card,6.44
+O1298,Casablanca,Groceries,Wallet,15.77
+O1299,Casablanca,Toys,Cash,24.85
+O1300,Riyadh,Stationery,Card,50.7
